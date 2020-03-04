@@ -6,6 +6,6 @@ RUN echo "http://dl-4.alpinelinux.org/alpine/edge/community/" >> /etc/apk/reposi
     apk update    && \
     apk add --update \
             tzdata   \
-            bash  && \
+            bash
 RUN rm -fr /tmp/* /var/tmp/* /var/cache/apk/* /var/cache/distfiles/*
 ENV TZ Europe/Berlin
