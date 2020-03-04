@@ -1,6 +1,10 @@
 ![GitHub](https://img.shields.io/badge/license-GPL--3.0-informational?style=plastic)
 ![Liberapay patrons](https://img.shields.io/liberapay/patrons/Akito?style=plastic)
 
+
+## Info
+My base alpine image I use for my other alpine-based images.
+
 ## License
 Copyright (C) 2020  Akito <the@akito.ooo>
 
