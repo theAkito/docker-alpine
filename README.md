@@ -5,6 +5,16 @@
 ## Info
 My base alpine image I use for my other alpine-based images.
 
+## Pull
+```bash
+docker pull akito13/alpine
+```
+
+## Build
+```bash
+docker build -t akito-alpine:test -f Dockerfile .
+```
+
 ## License
 Copyright (C) 2020  Akito <the@akito.ooo>
 
